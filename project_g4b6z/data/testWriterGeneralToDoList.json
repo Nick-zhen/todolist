@@ -1,0 +1,13 @@
+{
+    "todo-list name": "My to-do list",
+    "tasks": [
+        {
+            "task name": "cpsc210",
+            "status: is completed?": true
+        },
+        {
+            "task name": "math200",
+            "status: is completed?": false
+        }
+    ]
+}
